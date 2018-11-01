@@ -1,0 +1,2 @@
+# Fibonacci
+Ciąg fibonacciego
